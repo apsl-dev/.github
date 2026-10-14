@@ -19,4 +19,3 @@ We believe useful engineering tools should be understandable, maintainable, and 
 
 Public projects and documentation will appear here as they become available.
 
-[Explore our repositories](https://github.com/orgs/apsl-dev/repositories)
